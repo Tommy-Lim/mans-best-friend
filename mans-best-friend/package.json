@@ -7,7 +7,14 @@
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-scripts": "0.9.5",
+    "vinyl-source-stream": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
